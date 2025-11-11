@@ -37,4 +37,3 @@ Documented the workflow and results for internal review and future scalability.
 ## Author
 
 Sagnik Ghosh
-Junior Engineer – Tools & Automation @ Mindsprint
