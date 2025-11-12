@@ -1,4 +1,4 @@
-# HRC Project – AI-Enabled FinTech Invoice Management
+# HRC Project – AI-Enabled FinTech B2B Invoice Management
 
 ### Overview
 This project was developed as part of my Tech Internship at HighRadius. It focuses on building a Machine Learning model to predict the Order Amount (in USD) that customers are likely to place in upcoming days. The goal was to enhance cash flow forecasting and assist in data-driven credit decisions for B2B clients.
