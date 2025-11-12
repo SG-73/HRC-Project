@@ -10,7 +10,7 @@ Businesses often face challenges in estimating future order volumes due to incon
 - **Languages:** Python
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib
 - **Environment:** Jupyter Notebook
-- **Model Used:** Linear Regression & Random Forest Regressor
+- **Model Used:** LightGBM Regressor
 
 ### Approach
 1. **Data Cleaning & Preprocessing:** Handled missing values, outliers, and feature scaling.
